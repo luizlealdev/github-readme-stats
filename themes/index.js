@@ -13,9 +13,9 @@ export const themes = {
     bg_color: "fffefe",
   },
   transparent: {
-    title_color: "006AFF",
+    title_color: "3ddb86",
     icon_color: "0579C3",
-    text_color: "417E87",
+    text_color: "2f5666",
     bg_color: "ffffff00",
   },
   shadow_red: {
