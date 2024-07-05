@@ -15,7 +15,7 @@ export const themes = {
   transparent: {
     title_color: "3ddb86",
     icon_color: "31b56e",
-    text_color: "386d76",
+    text_color: "45737a",
     bg_color: "ffffff00",
   },
   shadow_red: {
